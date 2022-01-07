@@ -24,7 +24,7 @@ console.log(typeof(10n));
 console.log(typeof(alert));
 
 //Example
-// let name="Aman";
-// alert(`hello ${1}`);
-// alert(`hello ${"name"}`);
-// alert(`hello ${name}`);
+let name="Aman";
+alert(`hello ${1}`);
+alert(`hello ${"name"}`);
+alert(`hello ${name}`);
