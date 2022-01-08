@@ -47,12 +47,15 @@ console.log(2* ++ prefix);
 
 let add=(5+2,1+3)
 console.log(add);
+//Example
 
 let f=1,g=1;
 console.log(++f);
 console.log(g++);
 console.log(f);
 console.log(g);
+
+
 
 
 
