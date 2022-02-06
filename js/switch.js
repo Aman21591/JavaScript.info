@@ -6,3 +6,4 @@ function XYZ() {
 }
 XYZ();
 console.log(message);
+console.log(message);
